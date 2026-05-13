@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnandShubham07/shubham/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/AnandShubham07/shubham/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/AnandShubham07/shubham/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/AnandShubham07/shubham/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -70,9 +71,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AnandShubham07/shubham/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AnandShubham07/shubham/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AnandShubham07/shubham/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/AnandShubham07/shubham/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
