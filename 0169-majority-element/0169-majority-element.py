@@ -7,6 +7,6 @@ class Solution:
               dict[nums[i]]=dict[nums[i]]+1
             else:
                 dict[nums[i]]=1
-        for key in dict:
-            if(dict[key]>n/2):
-                return key
+        
+            if(dict[nums[i]]>n/2):
+                return nums[i]
