@@ -121,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0503-next-greater-element-ii) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AnandShubham07/shubham/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AnandShubham07/shubham/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AnandShubham07/shubham/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
