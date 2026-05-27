@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/AnandShubham07/shubham/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/AnandShubham07/shubham/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/AnandShubham07/shubham/tree/master/1148-article-views-i) |
+| [1729-find-followers-count](https://github.com/AnandShubham07/shubham/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AnandShubham07/shubham/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/AnandShubham07/shubham/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
