@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/AnandShubham07/shubham/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/AnandShubham07/shubham/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/AnandShubham07/shubham/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/AnandShubham07/shubham/tree/master/0584-find-customer-referee) |
