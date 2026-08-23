@@ -30,14 +30,15 @@ class Solution:
         while(c<9):
             new=[]           
             for  i in range(r,r+3):
+                k=(c%3)*3
                 for j in range(k,k+3):
                         new.append(board[i][j])
-                k=(c%3)*3
+               
             if(isduplicate(new)):
                 return False
             c=c+1
             r=(c//3)*3
-            k=(c%3)*3
+            #k=(c%3)*3
            
         return True
 
