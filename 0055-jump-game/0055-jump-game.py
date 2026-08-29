@@ -3,10 +3,11 @@ class Solution:
         
         def check_jump(index):
             i=index-1
-            dis=index-i
-            l=dis
+            # dis=index-i
+            # l=dis
+            l=1
             while(i>=0):
-                if((nums[i]>=dis and nums[i]<=l )or nums[i]==0):
+                if((nums[i]>=1 and nums[i]<=l )or nums[i]==0):
                     i=i-1
                     l+=1               
                 else:
