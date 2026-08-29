@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AnandShubham07/shubham/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AnandShubham07/shubham/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AnandShubham07/shubham/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AnandShubham07/shubham/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/AnandShubham07/shubham/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AnandShubham07/shubham/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AnandShubham07/shubham/tree/master/0055-jump-game) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/AnandShubham07/shubham/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/AnandShubham07/shubham/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/AnandShubham07/shubham/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AnandShubham07/shubham/tree/master/0169-majority-element) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AnandShubham07/shubham/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AnandShubham07/shubham/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AnandShubham07/shubham/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AnandShubham07/shubham/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/AnandShubham07/shubham/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
