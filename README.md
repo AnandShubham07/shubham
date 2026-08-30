@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AnandShubham07/shubham/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/AnandShubham07/shubham/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AnandShubham07/shubham/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AnandShubham07/shubham/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/AnandShubham07/shubham/tree/master/0509-fibonacci-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AnandShubham07/shubham/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AnandShubham07/shubham/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnandShubham07/shubham/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/AnandShubham07/shubham/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AnandShubham07/shubham/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AnandShubham07/shubham/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AnandShubham07/shubham/tree/master/0055-jump-game) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnandShubham07/shubham/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/AnandShubham07/shubham/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AnandShubham07/shubham/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AnandShubham07/shubham/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AnandShubham07/shubham/tree/master/0074-search-a-2d-matrix) |
