@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AnandShubham07/shubham/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AnandShubham07/shubham/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AnandShubham07/shubham/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AnandShubham07/shubham/tree/master/0079-word-search) |
 | [0164-maximum-gap](https://github.com/AnandShubham07/shubham/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AnandShubham07/shubham/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AnandShubham07/shubham/tree/master/0198-house-robber) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AnandShubham07/shubham/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnandShubham07/shubham/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AnandShubham07/shubham/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AnandShubham07/shubham/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnandShubham07/shubham/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AnandShubham07/shubham/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AnandShubham07/shubham/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/AnandShubham07/shubham/tree/master/0079-word-search) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 ## Stack
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AnandShubham07/shubham/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnandShubham07/shubham/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/AnandShubham07/shubham/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AnandShubham07/shubham/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnandShubham07/shubham/tree/master/0056-merge-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AnandShubham07/shubham/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
