@@ -5,11 +5,11 @@ class Solution:
         m=len(board[0])
         visited=set()
         def dp(i,j,result,l):
-            if(len(result)>len(word)):
-                return False        
+                 
             if(result==word):
                 return True
-            
+            if(len(result)>len(word)):
+                return False   
             if(i>0):
                 if((i-1,j) not in visited and board[i-1][j]==word[l]):
                     visited.add((i-1,j))
