@@ -9,6 +9,8 @@ class Solution:
                 return True 
             elif(nums[mid]==nums[right]):
                     right=right-1
+            elif(nums[mid]==nums[left]):
+                    left=left+1
             elif(nums[mid]<nums[right]):
                 if(target>nums[mid] and target<=nums[right]):
                     left=mid+1
