@@ -1,13 +1,9 @@
 class Solution:
     def singleNumber(self, nums: list[int]) -> int:
-        visited=set()
+        result=0
         for  i in nums:
-            if i not in visited:
-                visited.add(i)
-            else:
-                visited.remove(i)
+            result=result^i
 
-        for x in visited:
-            return x
+        return result
 
         
