@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AnandShubham07/shubham/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AnandShubham07/shubham/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AnandShubham07/shubham/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnandShubham07/shubham/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/AnandShubham07/shubham/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnandShubham07/shubham/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnandShubham07/shubham/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AnandShubham07/shubham/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnandShubham07/shubham/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/AnandShubham07/shubham/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AnandShubham07/shubham/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AnandShubham07/shubham/tree/master/0198-house-robber) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnandShubham07/shubham/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AnandShubham07/shubham/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
