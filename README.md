@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AnandShubham07/shubham/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AnandShubham07/shubham/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnandShubham07/shubham/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnandShubham07/shubham/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/AnandShubham07/shubham/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AnandShubham07/shubham/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AnandShubham07/shubham/tree/master/0198-house-robber) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AnandShubham07/shubham/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AnandShubham07/shubham/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnandShubham07/shubham/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnandShubham07/shubham/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
 |  |
 | ------- |
