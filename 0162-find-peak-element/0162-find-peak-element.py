@@ -1,23 +1,9 @@
 class Solution:
     def findPeakElement(self, nums: list[int]) -> int:
-        left=0
-        right=left+1
+    
+        for i in range(1,len(nums)-1):
+            if(nums[i]>nums[i-1] and nums[i]>nums[i+1]):
+                return i
+        return 0 if nums[0]>nums[len(nums)-1] else  len(nums)-1
 
-        while(left<right):
-            if(right>len(nums)-1):
-                break
-            if(nums[left]<nums[right]):
-                left+=1
-                right+=1
-                if(right>len(nums)-1):
-                    break
-                if(nums[left]>nums[right]):
-                    return left
-            else:
-                left+=1
-                right+=1
-        if(nums[0]>nums[left]):
-            return 0
-        else:
-         return left
         
