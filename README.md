@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AnandShubham07/shubham/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/AnandShubham07/shubham/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AnandShubham07/shubham/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AnandShubham07/shubham/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AnandShubham07/shubham/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnandShubham07/shubham/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AnandShubham07/shubham/tree/master/0283-move-zeroes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AnandShubham07/shubham/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AnandShubham07/shubham/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AnandShubham07/shubham/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AnandShubham07/shubham/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/AnandShubham07/shubham/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AnandShubham07/shubham/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AnandShubham07/shubham/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -349,10 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnandShubham07/shubham/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AnandShubham07/shubham/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AnandShubham07/shubham/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnandShubham07/shubham/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AnandShubham07/shubham/tree/master/0200-number-of-islands) |
 ## Brute-Force Search
 |  |
 | ------- |
