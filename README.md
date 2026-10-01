@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AnandShubham07/shubham/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/AnandShubham07/shubham/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnandShubham07/shubham/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnandShubham07/shubham/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AnandShubham07/shubham/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AnandShubham07/shubham/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnandShubham07/shubham/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnandShubham07/shubham/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnandShubham07/shubham/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnandShubham07/shubham/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnandShubham07/shubham/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnandShubham07/shubham/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
@@ -383,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnandShubham07/shubham/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
