@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AnandShubham07/shubham/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AnandShubham07/shubham/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnandShubham07/shubham/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/AnandShubham07/shubham/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnandShubham07/shubham/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AnandShubham07/shubham/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/AnandShubham07/shubham/tree/master/0164-maximum-gap) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnandShubham07/shubham/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnandShubham07/shubham/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/AnandShubham07/shubham/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/AnandShubham07/shubham/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnandShubham07/shubham/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AnandShubham07/shubham/tree/master/0509-fibonacci-number) |
 | [1395-count-number-of-teams](https://github.com/AnandShubham07/shubham/tree/master/1395-count-number-of-teams) |
