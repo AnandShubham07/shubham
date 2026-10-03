@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AnandShubham07/shubham/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/AnandShubham07/shubham/tree/master/1004-max-consecutive-ones-iii) |
 | [1395-count-number-of-teams](https://github.com/AnandShubham07/shubham/tree/master/1395-count-number-of-teams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnandShubham07/shubham/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AnandShubham07/shubham/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnandShubham07/shubham/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnandShubham07/shubham/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnandShubham07/shubham/tree/master/0240-search-a-2d-matrix-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/AnandShubham07/shubham/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnandShubham07/shubham/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AnandShubham07/shubham/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AnandShubham07/shubham/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/AnandShubham07/shubham/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnandShubham07/shubham/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnandShubham07/shubham/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AnandShubham07/shubham/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/AnandShubham07/shubham/tree/master/1004-max-consecutive-ones-iii) |
 ## Quickselect
 |  |
 | ------- |
