@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/AnandShubham07/shubham/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/AnandShubham07/shubham/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
 | [1395-count-number-of-teams](https://github.com/AnandShubham07/shubham/tree/master/1395-count-number-of-teams) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnandShubham07/shubham/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnandShubham07/shubham/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AnandShubham07/shubham/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/AnandShubham07/shubham/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
