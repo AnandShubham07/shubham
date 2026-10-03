@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnandShubham07/shubham/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnandShubham07/shubham/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnandShubham07/shubham/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AnandShubham07/shubham/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/AnandShubham07/shubham/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/AnandShubham07/shubham/tree/master/1768-merge-strings-alternately) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AnandShubham07/shubham/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/AnandShubham07/shubham/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnandShubham07/shubham/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AnandShubham07/shubham/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AnandShubham07/shubham/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnandShubham07/shubham/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/AnandShubham07/shubham/tree/master/0221-maximal-square) |
+| [0392-is-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AnandShubham07/shubham/tree/master/0509-fibonacci-number) |
 | [1395-count-number-of-teams](https://github.com/AnandShubham07/shubham/tree/master/1395-count-number-of-teams) |
 ## Memoization
