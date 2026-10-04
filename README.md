@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnandShubham07/shubham/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/AnandShubham07/shubham/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AnandShubham07/shubham/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AnandShubham07/shubham/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnandShubham07/shubham/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AnandShubham07/shubham/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AnandShubham07/shubham/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnandShubham07/shubham/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnandShubham07/shubham/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/AnandShubham07/shubham/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AnandShubham07/shubham/tree/master/0735-asteroid-collision) |
