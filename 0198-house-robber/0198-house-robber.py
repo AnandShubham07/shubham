@@ -10,8 +10,7 @@ class Solution(object):
         
         first=nums[0]
         second=max(nums[1],nums[0])
-        for i in range(2,len(nums)):
-               
+        for i in range(2,len(nums)):              
                new=max(second,first+nums[i])
                first=second
                second=new               
