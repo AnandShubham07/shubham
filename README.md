@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/AnandShubham07/shubham/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AnandShubham07/shubham/tree/master/0509-fibonacci-number) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1395-count-number-of-teams](https://github.com/AnandShubham07/shubham/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnandShubham07/shubham/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnandShubham07/shubham/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/AnandShubham07/shubham/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/AnandShubham07/shubham/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Tree
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnandShubham07/shubham/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/AnandShubham07/shubham/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/AnandShubham07/shubham/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnandShubham07/shubham/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/AnandShubham07/shubham/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/AnandShubham07/shubham/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -493,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnandShubham07/shubham/tree/master/1071-greatest-common-divisor-of-strings) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
