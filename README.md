@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnandShubham07/shubham/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AnandShubham07/shubham/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AnandShubham07/shubham/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/AnandShubham07/shubham/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnandShubham07/shubham/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/AnandShubham07/shubham/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnandShubham07/shubham/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/AnandShubham07/shubham/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnandShubham07/shubham/tree/master/0240-search-a-2d-matrix-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/AnandShubham07/shubham/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/AnandShubham07/shubham/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AnandShubham07/shubham/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/AnandShubham07/shubham/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Brute-Force Search
 |  |
 | ------- |
