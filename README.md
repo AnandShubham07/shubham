@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AnandShubham07/shubham/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AnandShubham07/shubham/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/AnandShubham07/shubham/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnandShubham07/shubham/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/AnandShubham07/shubham/tree/master/1207-unique-number-of-occurrences) |
 | [1395-count-number-of-teams](https://github.com/AnandShubham07/shubham/tree/master/1395-count-number-of-teams) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnandShubham07/shubham/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/AnandShubham07/shubham/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnandShubham07/shubham/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/AnandShubham07/shubham/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AnandShubham07/shubham/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/AnandShubham07/shubham/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnandShubham07/shubham/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AnandShubham07/shubham/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/AnandShubham07/shubham/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/AnandShubham07/shubham/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AnandShubham07/shubham/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
