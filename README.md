@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AnandShubham07/shubham/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnandShubham07/shubham/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/AnandShubham07/shubham/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnandShubham07/shubham/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AnandShubham07/shubham/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/AnandShubham07/shubham/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AnandShubham07/shubham/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/AnandShubham07/shubham/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/AnandShubham07/shubham/tree/master/0605-can-place-flowers) |
+| [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
 ## String
 |  |
 | ------- |
