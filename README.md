@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/AnandShubham07/shubham/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AnandShubham07/shubham/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/AnandShubham07/shubham/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/AnandShubham07/shubham/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnandShubham07/shubham/tree/master/1004-max-consecutive-ones-iii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnandShubham07/shubham/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnandShubham07/shubham/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnandShubham07/shubham/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/AnandShubham07/shubham/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnandShubham07/shubham/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AnandShubham07/shubham/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
