@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnandShubham07/shubham/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AnandShubham07/shubham/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AnandShubham07/shubham/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/AnandShubham07/shubham/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AnandShubham07/shubham/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/AnandShubham07/shubham/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/AnandShubham07/shubham/tree/master/0179-largest-number) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AnandShubham07/shubham/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AnandShubham07/shubham/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnandShubham07/shubham/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/AnandShubham07/shubham/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/AnandShubham07/shubham/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnandShubham07/shubham/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnandShubham07/shubham/tree/master/0121-best-time-to-buy-and-sell-stock) |
