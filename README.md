@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AnandShubham07/shubham/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AnandShubham07/shubham/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AnandShubham07/shubham/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnandShubham07/shubham/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/AnandShubham07/shubham/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -345,9 +346,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AnandShubham07/shubham/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AnandShubham07/shubham/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/AnandShubham07/shubham/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/AnandShubham07/shubham/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/AnandShubham07/shubham/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/AnandShubham07/shubham/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/AnandShubham07/shubham/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
