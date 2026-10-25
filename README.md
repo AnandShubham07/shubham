@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnandShubham07/shubham/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/AnandShubham07/shubham/tree/master/1137-n-th-tribonacci-number) |
 | [2409-count-days-spent-together](https://github.com/AnandShubham07/shubham/tree/master/2409-count-days-spent-together) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AnandShubham07/shubham/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AnandShubham07/shubham/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnandShubham07/shubham/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AnandShubham07/shubham/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
