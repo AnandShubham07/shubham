@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/AnandShubham07/shubham/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/AnandShubham07/shubham/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnandShubham07/shubham/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/AnandShubham07/shubham/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AnandShubham07/shubham/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/AnandShubham07/shubham/tree/master/2352-equal-row-and-column-pairs) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnandShubham07/shubham/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AnandShubham07/shubham/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnandShubham07/shubham/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnandShubham07/shubham/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AnandShubham07/shubham/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/AnandShubham07/shubham/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnandShubham07/shubham/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AnandShubham07/shubham/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/AnandShubham07/shubham/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnandShubham07/shubham/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Brute-Force Search
 |  |
 | ------- |
