@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AnandShubham07/shubham/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnandShubham07/shubham/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AnandShubham07/shubham/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/AnandShubham07/shubham/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnandShubham07/shubham/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnandShubham07/shubham/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AnandShubham07/shubham/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/AnandShubham07/shubham/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnandShubham07/shubham/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/AnandShubham07/shubham/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnandShubham07/shubham/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -643,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/AnandShubham07/shubham/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
