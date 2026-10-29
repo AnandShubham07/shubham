@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnandShubham07/shubham/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/AnandShubham07/shubham/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/AnandShubham07/shubham/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnandShubham07/shubham/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnandShubham07/shubham/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AnandShubham07/shubham/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/AnandShubham07/shubham/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/AnandShubham07/shubham/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnandShubham07/shubham/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/AnandShubham07/shubham/tree/master/1143-longest-common-subsequence) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/AnandShubham07/shubham/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/AnandShubham07/shubham/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
