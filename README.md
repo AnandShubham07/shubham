@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnandShubham07/shubham/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AnandShubham07/shubham/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/AnandShubham07/shubham/tree/master/0509-fibonacci-number) |
+| [0843-guess-the-word](https://github.com/AnandShubham07/shubham/tree/master/0843-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnandShubham07/shubham/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/AnandShubham07/shubham/tree/master/1137-n-th-tribonacci-number) |
 | [2409-count-days-spent-together](https://github.com/AnandShubham07/shubham/tree/master/2409-count-days-spent-together) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AnandShubham07/shubham/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AnandShubham07/shubham/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnandShubham07/shubham/tree/master/0746-min-cost-climbing-stairs) |
+| [0843-guess-the-word](https://github.com/AnandShubham07/shubham/tree/master/0843-guess-the-word) |
 | [0875-koko-eating-bananas](https://github.com/AnandShubham07/shubham/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/AnandShubham07/shubham/tree/master/0994-rotting-oranges) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/AnandShubham07/shubham/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
+| [0843-guess-the-word](https://github.com/AnandShubham07/shubham/tree/master/0843-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnandShubham07/shubham/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/AnandShubham07/shubham/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/AnandShubham07/shubham/tree/master/1268-search-suggestions-system) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AnandShubham07/shubham/tree/master/0374-guess-number-higher-or-lower) |
+| [0843-guess-the-word](https://github.com/AnandShubham07/shubham/tree/master/0843-guess-the-word) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -659,4 +663,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0334-increasing-triplet-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/AnandShubham07/shubham/tree/master/0843-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/AnandShubham07/shubham/tree/master/0843-guess-the-word) |
 <!---LeetCode Topics End-->
