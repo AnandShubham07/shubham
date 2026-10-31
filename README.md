@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AnandShubham07/shubham/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnandShubham07/shubham/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AnandShubham07/shubham/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnandShubham07/shubham/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/AnandShubham07/shubham/tree/master/0509-fibonacci-number) |
 | [0843-guess-the-word](https://github.com/AnandShubham07/shubham/tree/master/0843-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnandShubham07/shubham/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AnandShubham07/shubham/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AnandShubham07/shubham/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnandShubham07/shubham/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/AnandShubham07/shubham/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnandShubham07/shubham/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AnandShubham07/shubham/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnandShubham07/shubham/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0229-majority-element-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnandShubham07/shubham/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AnandShubham07/shubham/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AnandShubham07/shubham/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnandShubham07/shubham/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/AnandShubham07/shubham/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/AnandShubham07/shubham/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/AnandShubham07/shubham/tree/master/2336-smallest-number-in-infinite-set) |
@@ -678,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/AnandShubham07/shubham/tree/master/0843-guess-the-word) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AnandShubham07/shubham/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
