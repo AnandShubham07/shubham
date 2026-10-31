@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/AnandShubham07/shubham/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/AnandShubham07/shubham/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AnandShubham07/shubham/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/AnandShubham07/shubham/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/AnandShubham07/shubham/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/AnandShubham07/shubham/tree/master/2409-count-days-spent-together) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AnandShubham07/shubham/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -634,10 +636,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AnandShubham07/shubham/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/AnandShubham07/shubham/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AnandShubham07/shubham/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AnandShubham07/shubham/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/AnandShubham07/shubham/tree/master/0399-evaluate-division) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AnandShubham07/shubham/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
