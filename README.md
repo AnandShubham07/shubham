@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AnandShubham07/shubham/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnandShubham07/shubham/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/AnandShubham07/shubham/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AnandShubham07/shubham/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/AnandShubham07/shubham/tree/master/0399-evaluate-division) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AnandShubham07/shubham/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnandShubham07/shubham/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/AnandShubham07/shubham/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnandShubham07/shubham/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AnandShubham07/shubham/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AnandShubham07/shubham/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/AnandShubham07/shubham/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/AnandShubham07/shubham/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
