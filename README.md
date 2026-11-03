@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/AnandShubham07/shubham/tree/master/1137-n-th-tribonacci-number) |
 | [2409-count-days-spent-together](https://github.com/AnandShubham07/shubham/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnandShubham07/shubham/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnandShubham07/shubham/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/AnandShubham07/shubham/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnandShubham07/shubham/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnandShubham07/shubham/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnandShubham07/shubham/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
