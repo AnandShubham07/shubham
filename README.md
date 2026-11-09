@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/AnandShubham07/shubham/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/AnandShubham07/shubham/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/AnandShubham07/shubham/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnandShubham07/shubham/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/AnandShubham07/shubham/tree/master/1395-count-number-of-teams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnandShubham07/shubham/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnandShubham07/shubham/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AnandShubham07/shubham/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AnandShubham07/shubham/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/AnandShubham07/shubham/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnandShubham07/shubham/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AnandShubham07/shubham/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/AnandShubham07/shubham/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnandShubham07/shubham/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AnandShubham07/shubham/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnandShubham07/shubham/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/AnandShubham07/shubham/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnandShubham07/shubham/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AnandShubham07/shubham/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AnandShubham07/shubham/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/AnandShubham07/shubham/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/AnandShubham07/shubham/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnandShubham07/shubham/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnandShubham07/shubham/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AnandShubham07/shubham/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AnandShubham07/shubham/tree/master/2300-successful-pairs-of-spells-and-potions) |
