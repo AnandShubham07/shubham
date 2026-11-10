@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
 | [2747-count-zero-request-servers](https://github.com/AnandShubham07/shubham/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnandShubham07/shubham/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/AnandShubham07/shubham/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnandShubham07/shubham/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnandShubham07/shubham/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AnandShubham07/shubham/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1395-count-number-of-teams](https://github.com/AnandShubham07/shubham/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnandShubham07/shubham/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3693-climbing-stairs-ii](https://github.com/AnandShubham07/shubham/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnandShubham07/shubham/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
