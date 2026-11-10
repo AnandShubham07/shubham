@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/AnandShubham07/shubham/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/AnandShubham07/shubham/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AnandShubham07/shubham/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1683-invalid-tweets](https://github.com/AnandShubham07/shubham/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/AnandShubham07/shubham/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AnandShubham07/shubham/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/AnandShubham07/shubham/tree/master/1789-primary-department-for-each-employee) |
