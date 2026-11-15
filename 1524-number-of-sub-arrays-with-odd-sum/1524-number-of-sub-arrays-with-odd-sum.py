@@ -2,13 +2,16 @@ class Solution:
     def numOfSubarrays(self, arr: list[int]) -> int:
         count=0
         n=len(arr)
-        even=0
+        prefix=0
+        even=1
         odd=0
         for i in range(0,n):           
-            if(arr[i]%2==0):
+            prefix+=arr[i]
+            if(prefix%2==0):
+                count+=odd
                 even+=1
             else:
-                even,odd=odd,even
+                count+=even
                 odd+=1
-            count+=odd
         return count%(10**9+7)
+            
