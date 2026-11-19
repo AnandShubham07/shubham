@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/AnandShubham07/shubham/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/AnandShubham07/shubham/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnandShubham07/shubham/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/AnandShubham07/shubham/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnandShubham07/shubham/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnandShubham07/shubham/tree/master/3364-minimum-positive-sum-subarray) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AnandShubham07/shubham/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AnandShubham07/shubham/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnandShubham07/shubham/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/AnandShubham07/shubham/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/AnandShubham07/shubham/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnandShubham07/shubham/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/AnandShubham07/shubham/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnandShubham07/shubham/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnandShubham07/shubham/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AnandShubham07/shubham/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
